@@ -1,4 +1,4 @@
-const initial = [{ id: 1, name: "Ram", present: false }];
+const initial = [{ id: 1, name: "YAMINI DHANA LAKSHMI", present: false }];
 
 function reducer(s, a) {
   return a.type === "TOGGLE"
